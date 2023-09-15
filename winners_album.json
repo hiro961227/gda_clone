@@ -1,0 +1,86 @@
+[
+  {
+    "award":0,
+    "image":"/image/album/album_art_img16.jpg",
+    "artist":"BLACKPINK",
+    "title":"BORN PINK"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img17.jpg",
+    "artist":"ENHYPEN",
+    "title":"MANIFESTO : DAY 1"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img18.jpg",
+    "artist":"NCT",
+    "title":"Universe - The 3rd Album"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img19.jpg",
+    "artist":"NCT 127",
+    "title":"질주 (2 Baddies) - The 4th Album"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img20.jpg",
+    "artist":"NCT DREAM",
+    "title":"Glitch Mode - The 2nd Album"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img21.jpg",
+    "artist":"Stray Kids",
+    "title":"MAXIDENT"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img24.jpg",
+    "artist":"방탄소년단",
+    "title":"Proof"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img14.jpg",
+    "artist":"세븐틴",
+    "title":"4th Album `Face the Sun`"
+  },
+  {
+    "award":1,
+    "image" :"/image/album/album_art_img22.jpg",
+    "artist":"TREASURE",
+    "title":""
+  },
+  {
+    "award":2,
+    "image" :"/image/album/album_art_img14.jpg",
+    "artist":"세븐틴",
+    "title":""
+  },
+  {
+    "award":3,
+    "image" :"/image/album/album_art_img24.jpg",
+    "artist":"방탄소년단",
+    "title":""
+  },
+  {
+    "award":4,
+    "image" :"/image/album/album_art_img23.jpg",
+    "artist":"(여자)아이들",
+    "title":""
+  },
+  {
+    "award":4,
+    "image" :"/image/album/album_art_img21.jpg",
+    "artist":"Stray Kids",
+    "title":""
+  },
+  {
+    "award":5,
+    "image" :"/image/album/album_art_img07.jpg",
+    "artist":"싸이",
+    "title":""
+  }
+]

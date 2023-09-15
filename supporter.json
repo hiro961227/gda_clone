@@ -1,0 +1,30 @@
+[
+  {
+    "image":"/image/supporter/ticker_img01.png",
+    "alt":"JTBC"
+  },
+  {
+    "image":"/image/supporter/ticker_img02.png",
+    "alt":"JTBC2"
+  },
+  {
+    "image":"/image/supporter/ticker_img03.png",
+    "alt":"JTBC4"
+  },
+  {
+    "image":"/image/supporter/ticker_img04.png",
+    "alt":"Paravi"
+  },
+  {
+    "image":"/image/supporter/ticker_img05.png",
+    "alt":"TikTok"
+  },
+  {
+    "image":"/image/supporter/ticker_img06.png",
+    "alt":"TBS"
+  },
+  {
+    "image":"/image/supporter/ticker_img07.png",
+    "alt":"HYUNDAI"
+  }
+]

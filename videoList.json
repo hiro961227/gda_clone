@@ -1,0 +1,368 @@
+[
+  {
+    "id" : 0,
+    "year":"2023",
+    "data":[
+      {
+        "id" : 0,
+        "image" : "/image/video/2023/img_thumbnail01.jpg",
+        "alt": "음반 부문 대상 - 방탄소년단",
+        "title" : "[제37회 골든디스크] 음반 부문 대상 - 방탄소년단｜JTBC 230107 방송"
+      },
+      {
+        "id" : 1,
+        "image" : "/image/video/2023/img_thumbnail02.jpg",
+        "alt": "디지털 음원 부문 대상 - IVE",
+        "title" : "[제37회 골든디스크] 디지털 음원 부문 대상 - IVE｜JTBC 230107 방송"
+      },
+      {
+        "id" : 2,
+        "image" : "/image/video/2023/img_thumbnail03.jpg",
+        "alt": "디지털 음원 부문 대상 시상자 - 이준호",
+        "title" : "[제37회 골든디스크] 디지털 음원 부문 대상 시상자 - 이준호｜JTBC 230107 방송"
+      },
+      {
+        "id" : 3,
+        "image" : "/image/video/2023/img_thumbnail04.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] PSY - 'That That + 강남스타일' ♪｜JTBC 230107 방송"
+      },
+      {
+        "id" : 4,
+        "image" : "/image/video/2023/img_thumbnail05.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] SEVENTEEN - 'HOT + CHEERS + _WORLD + DON QUIXOTE' ♪｜JTBC 230107 방송"
+      },
+      {
+        "id" : 5,
+        "image" : "/image/video/2023/img_thumbnail06.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] 음반 부문 본상 / TIKTOK 골든디스크 인기상 - 방탄소년단｜JTBC 230107 방송"
+      },
+      {
+        "id" : 6,
+        "image" : "/image/video/2023/img_thumbnail07.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] 디지털 음원 부문 본상 - PSY｜JTBC 230107 방송"
+      },
+      {
+        "id" : 7,
+        "image" : "/image/video/2023/img_thumbnail08.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] 디지털 음원 부문 본상 - 빅뱅(대리수상)｜JTBC 230107 방송"
+      },
+      {
+        "id" : 8,
+        "image" : "/image/video/2023/img_thumbnail09.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] 최고 인기 가수상 - Stray Kids & (여자)아이들｜JTBC 230107 방송"
+      },
+      {
+        "id" : 9,
+        "image" : "/image/video/2023/img_thumbnail10.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] 임영웅 - '우리들의 블루스 + London Boy' ♪｜JTBC 230107 방송"
+      },
+      {
+        "id" : 10,
+        "image" : "/image/video/2023/img_thumbnail11.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] Stray Kids - 'SUPER BOARD + 땡 + CASE 143' ♪｜JTBC 230107 방송"
+      },
+      {
+        "id" : 11,
+        "image" : "/image/video/2023/img_thumbnail12.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] ARTIST OF THE YEAR - PSY｜JTBC 230107 방송"
+      },
+      {
+        "id" : 12,
+        "image" : "/image/video/2023/img_thumbnail13.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] TIKTOK 골든디스크 인기상 시상자 - 백선아｜JTBC 230107 방송"
+      },
+      {
+        "id" : 13,
+        "image" : "/image/video/2023/img_thumbnail14.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] 음반 부문 본상 - NCT & 방탄소년단｜JTBC 230107 방송"
+      },
+      {
+        "id" : 14,
+        "image" : "/image/video/2023/img_thumbnail15.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] 박재범 - '회장님 Medley' ♪｜JTBC 230107 방송"
+      },
+      {
+        "id" : 15,
+        "image" : "/image/video/2023/img_thumbnail16.jpg",
+        "alt": "",
+        "title" : "[제37회 골든디스크] (여자)아이들 - 'INTRO + VILLAIN DIES + TOMBOY' ♪｜JTBC 230107 방송"
+      }
+    ]
+  },
+  {
+    "id" : 1,
+    "year":"2022",
+    "data":[
+      {
+        "id" : 0,
+        "image" : "/image/video/2022/img_thumbnail01.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] ARTIST OF THE YEAR 시상자 진서연｜JTBC 220108 방송"
+      },
+      {
+        "id" : 1,
+        "image" : "/image/video/2022/img_thumbnail02.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 디지털 음원 부문 본상 시상자 전종서｜JTBC 220108 방송"
+      },
+      {
+        "id" : 2,
+        "image" : "/image/video/2022/img_thumbnail03.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 베스트 그룹 시상자 이시언｜JTBC 220108 방송"
+      },
+      {
+        "id" : 3,
+        "image" : "/image/video/2022/img_thumbnail04.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 디지털 음원 부문 대상 - 아이유｜JTBC 220108 방송"
+      },
+      {
+        "id" : 4,
+        "image" : "/image/video/2022/img_thumbnail05.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 디지털 음원 부문 대상 시상자 홍정도&정우성｜JTBC 220108 방송"
+      },
+      {
+        "id" : 5,
+        "image" : "/image/video/2022/img_thumbnail06.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 음반 부문 대상 - 방탄소년단 ｜JTBC 220108 방송"
+      },
+      {
+        "id" : 6,
+        "image" : "/image/video/2022/img_thumbnail07.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 음반 부문 대상 시상자 주지훈｜JTBC 220108 방송"
+      },
+      {
+        "id" : 7,
+        "image" : "/image/video/2022/img_thumbnail08.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] ARTIST OF THE YEAR - aespa｜JTBC 220108 방송"
+      },
+      {
+        "id" : 8,
+        "image" : "/image/video/2022/img_thumbnail09.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 방탄소년단 - 'Life Goes On + INTRO + Butter'♪｜JTBC 220108 방송"
+      },
+      {
+        "id" : 9,
+        "image" : "/image/video/2022/img_thumbnail10.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 아이유 - 'Celebrity + 라일락'♪｜JTBC 220108 방송"
+      },
+      {
+        "id" : 10,
+        "image" : "/image/video/2022/img_thumbnail11.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 디지털 음원 부문 본상 - 아이유 & 방탄소년단｜JTBC 220108 방송"
+      },
+      {
+        "id" : 11,
+        "image" : "/image/video/2022/img_thumbnail12.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 디지털 음원 부문 본상 시상자 오정세｜JTBC 220108 방송"
+      },
+      {
+        "id" : 12,
+        "image" : "/image/video/2022/img_thumbnail13.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] SEVENTEEN - '혼자가 아니야 + 매일 그대라서 행복하다 + GAM3 BO1'외 2곡♪｜JTBC 220108 방송"
+      },
+      {
+        "id" : 13,
+        "image" : "/image/video/2022/img_thumbnail14.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 음반 부문 본상 - SEVENTEEN & 방탄소년단｜JTBC 220108 방송"
+      },
+      {
+        "id" : 14,
+        "image" : "/image/video/2022/img_thumbnail15.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 음반 부문 본상 시상자 박희순｜JTBC 220108 방송"
+      },
+      {
+        "id" : 15,
+        "image" : "/image/video/2022/img_thumbnail16.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 빅마마 - 'Butter + 라일락 + Dun Dun Dance' 외 2곡♪｜JTBC 220108 방송"
+      },
+      {
+        "id" : 16,
+        "image" : "/image/video/2022/img_thumbnail17.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 방찬 & 수빈 & 정원 & 민영 & 효정 & 수민 인터뷰｜JTBC 220108 방송"
+      },
+      {
+        "id" : 17,
+        "image" : "/image/video/2022/img_thumbnail18.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] Stray Kids - '소리꾼 + TOP + WOLFGANG'♪｜JTBC 220108 방송"
+      },
+      {
+        "id" : 18,
+        "image" : "/image/video/2022/img_thumbnail19.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 음반 부문 본상 - Stray Kids & NCT 127｜JTBC 220108 방송"
+      },
+      {
+        "id" : 19,
+        "image" : "/image/video/2022/img_thumbnail20.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] 음반 부문 본상 시상자 한채영｜JTBC 220108 방송"
+      },
+      {
+        "id" : 20,
+        "image" : "/image/video/2022/img_thumbnail21.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] seezn 골든디스크 인기상 - 방탄소년단｜JTBC 220108 방송"
+      },
+      {
+        "id" : 21,
+        "image" : "/image/video/2022/img_thumbnail22.jpg",
+        "alt": "",
+        "title" : "[제36회 골든디스크] seezn 골든디스크 인기상 시상자 구교환｜JTBC 220108 방송"
+      }
+    ]
+  },
+  {
+    "id" : 2,
+    "year":"2021",
+    "data":[
+      {
+        "id" : 0,
+        "image" : "/image/video/2021/img_thumbnail01.jpg",
+        "alt": "",
+        "title" : "[제35회 골든디스크] 디지털음원 부문 대상 - 아이유｜JTBC 210109 방송"
+      },
+      {
+        "id" : 1,
+        "image" : "/image/video/2021/img_thumbnail02.jpg",
+        "alt": "",
+        "title" : "[제35회 골든디스크] (앙코르) 방탄소년단(BTS) - 'ON'♪｜JTBC 210110 방송"
+      },
+      {
+        "id" : 2,
+        "image" : "/image/video/2021/img_thumbnail03.jpg",
+        "alt": "",
+        "title" : "[제35회 골든디스크] 디지털음원 부문 대상 시상자 - 이민호｜JTBC 210109 방송"
+      },
+      {
+        "id" : 3,
+        "image" : "/image/video/2021/img_thumbnail04.jpg",
+        "alt": "",
+        "title" : "[제35회 골든디스크] 음반 부문 대상 - 방탄소년단(BTS) ｜JTBC 210110 방송"
+      },
+      {
+        "id" : 4,
+        "image" : "/image/video/2021/img_thumbnail05.jpg",
+        "alt": "",
+        "title" : "[제35회 골든디스크] 아이유 - 'Love poem + Blueming'♪｜JTBC 210109 방송"
+      },
+      {
+        "id" : 5,
+        "image" : "/image/video/2021/img_thumbnail06.jpg",
+        "alt": "",
+        "title" : "[제35회 골든디스크] 음반 부문 대상 시상자 - 홍정도 사장&김남길｜JTBC 210110 방송"
+      },
+      {
+        "id" : 6,
+        "image" : "/image/video/2021/img_thumbnail07.jpg",
+        "alt": "",
+        "title" : "[제35회 골든디스크] 디지털 음원 부문 본상 - 아이유 & 방탄소년단｜JTBC 210109 방송"
+      }
+    ]
+  },
+  {
+    "id" : 3,
+    "year":"2020",
+    "data":[
+      {
+        "id" : 0,
+        "image" : "/image/video/2020/img_thumbnail01.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] (앙코르) 방탄소년단(BTS) - '작은 것들을 위한 시 (Boy With Luv)'♪"
+      },
+      {
+        "id" : 1,
+        "image" : "/image/video/2020/img_thumbnail02.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 음반 부문 대상 - 방탄소년단(BTS)"
+      },
+      {
+        "id" : 2,
+        "image" : "/image/video/2020/img_thumbnail03.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 음반 부문 대상 시상자 - 홍정도 대표이사 & 정우성"
+      },
+      {
+        "id" : 3,
+        "image" : "/image/video/2020/img_thumbnail04.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 방탄소년단(BTS) - 'Dionysus'♪"
+      },
+      {
+        "id" : 4,
+        "image" : "/image/video/2020/img_thumbnail05.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 방탄소년단(BTS) - '소우주(Mikrokosmos)'♬"
+      },
+      {
+        "id" : 5,
+        "image" : "/image/video/2020/img_thumbnail06.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 방탄소년단(BTS) - 'INTRO'+'Skool Luv Affair'+'보조개'♪"
+      },
+      {
+        "id" : 6,
+        "image" : "/image/video/2020/img_thumbnail07.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크]  디지털음원 부문 대상 - 방탄소년단(BTS)"
+      },
+      {
+        "id" : 7,
+        "image" : "/image/video/2020/img_thumbnail08.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 방탄소년단(BTS) - '작은 것들을 위한 시 (Boy With Luv)'♪"
+      },
+      {
+        "id" : 8,
+        "image" : "/image/video/2020/img_thumbnail09.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크]  디지털음원 부문 대상 시상자 - 김남길"
+      },
+      {
+        "id" : 9,
+        "image" : "/image/video/2020/img_thumbnail10.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 음반 부문 본상 - 방탄소년단(BTS) & 슈퍼주니어"
+      },
+      {
+        "id" : 10,
+        "image" : "/image/video/2020/img_thumbnail11.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 트와이스(TWICE) - 'YES or YES' + 'FANCY' +' STUCK IN MY HEAD'♪"
+      },
+      {
+        "id" : 11,
+        "image" : "/image/video/2020/img_thumbnail12.jpg",
+        "alt": "",
+        "title" : "[제34회 골든디스크] 음반 부문 본상 시상자 - 김태희"
+      }
+    ]
+  }
+]

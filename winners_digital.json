@@ -1,0 +1,104 @@
+[
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img01.jpg",
+    "artist":"(여자)아이들",
+    "title":"TOMBOY"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img02.jpg",
+    "artist":"BIGBANG(빅뱅)",
+    "title":"봄여름가을겨울 (Still Life)"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img03.jpg",
+    "artist":"IVE",
+    "title":"LOVE DIVE"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img04.jpg",
+    "artist":"NewJeans",
+    "title":"Attention"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img05.jpg",
+    "artist":"김민석",
+    "title":"취중고백"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img06.jpg",
+    "artist":"박재범",
+    "title":"GANADARA (Feat. 아이유)"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img07.jpg",
+    "artist":"싸이",
+    "title":"That That (prod. & feat. SUGA of BTS)"
+  },
+  {
+    "award":0,
+    "image" :"/image/album/album_art_img08.jpg",
+    "artist":"임영웅",
+    "title":"우리들의 블루스"
+  },
+  {
+    "award":1,
+    "image" :"/image/album/album_art_img03.jpg",
+    "artist":"IVE",
+    "title":""
+  },
+  {
+    "award":1,
+    "image" :"/image/album/album_art_img09.jpg",
+    "artist":"LE SSERAFIM",
+    "title":""
+  },
+  {
+    "award":1,
+    "image" :"/image/album/album_art_img04.jpg",
+    "artist":"NewJeans",
+    "title":""
+  },
+  {
+    "award":2,
+    "image" :"/image/album/album_art_img10.jpg",
+    "artist":"BIG Naughty",
+    "title":""
+  },
+  {
+    "award":3,
+    "image" :"/image/album/album_art_img11.jpg",
+    "artist":"BE'O",
+    "title":""
+  },
+  {
+    "award":3,
+    "image" :"/image/album/album_art_img12.jpg",
+    "artist":"윤하",
+    "title":""
+  },
+  {
+    "award":4,
+    "image" :"/image/album/album_art_img13.jpg",
+    "artist":"서현주",
+    "title":""
+  },
+  {
+    "award":5,
+    "image" :"/image/album/album_art_img14.jpg",
+    "artist":"세븐틴",
+    "title":""
+  },
+  {
+    "award":6,
+    "image" :"/image/album/album_art_img15.jpg",
+    "artist":"j-hope",
+    "title":""
+  }
+]
